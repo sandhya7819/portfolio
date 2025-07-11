@@ -16,14 +16,14 @@ This portfolio showcases my journey as a developer, featuring the projects I've 
 
 ## Projects Featured
 
-| Project Name          | Tech Stack                    | Description                                                | Live Demo                                     |
-|-----------------------|-------------------------------|------------------------------------------------------------|-----------------------------------------------|
-| MERN Todo App         | MongoDB, Express, React, Node | A full-stack CRUD todo list app                            | [View Live](https://your-todo-app-link.com)   |
-| E-Commerce Website    | MERN, Stripe, Admin Dashboard | Complete e-commerce site with products, auth, and cart     | [View Live](https://your-ecom-link.com)       |
-| Digital Clock         | HTML, CSS, JavaScript         | Simple and animated digital clock                          | [View](https://digital-clock-exwa.vercel.app) |
-| Book Store App        | Node.js, MongoDB, JS          | Book CRUD app with backend and frontend integration        | [View](https://your-book-store-link.com)      |
-| Bubble Game           | HTML, CSS, JS                 | Fun interactive bubble clicking game                       | [View](https://your-bubble-game-link.com)     |
-| Tech2 E-Commerce Clone| HTML, CSS, JS                 | Clone of Tech2etc-style frontend with product cards        | [View](https://your-tech2ecom-link.com)       |
+| Project Name          | Tech Stack                    | Description                                                | 
+|-----------------------|-------------------------------|------------------------------------------------------------|
+| MERN Todo App         | MongoDB, Express, React, Node | A full-stack CRUD todo list app                            |
+| E-Commerce Website    | MERN, Stripe, Admin Dashboard | Complete e-commerce site with products, auth, and cart     | 
+| Digital Clock         | HTML, CSS, JavaScript         | Simple and animated digital clock                          |
+| Book Store App        | Node.js, MongoDB, JS          | Book CRUD app with backend and frontend integration        | 
+| Bubble Game           | HTML, CSS, JS                 | Fun interactive bubble clicking game                       |
+| Tech2 E-Commerce Clone| HTML, CSS, JS                 | Clone of Tech2etc-style frontend with product cards        |
 
 
 ---
